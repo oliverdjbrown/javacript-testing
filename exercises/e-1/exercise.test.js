@@ -1,4 +1,4 @@
-//Declare functionality to be test it
+//Declare functionality to be tested
 const { week, extractTime } = require('./exercise.js');
 
 test('Return day test', () => {
