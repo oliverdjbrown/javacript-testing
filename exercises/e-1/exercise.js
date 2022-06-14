@@ -22,7 +22,10 @@ const week = {
 //Function to extract a formatted time from date
 function extractTime(dateParam) {
   const date = new Date(dateParam);
-  return `${date.getHours()} : ${date.getMinutes()} : ${date.getSeconds()}`;
+
+  return `${date.toLocaleTimeString().slice(0, 2)} ${
+    date.getHours() > 12 ? 'PM' : 'AM'
+  } : ${date.getMinutes()} : ${date.getSeconds()}`;
 }
 
 //print day of the week
