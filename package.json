@@ -1,0 +1,23 @@
+{
+  "name": "javacript-basic-practice",
+  "version": "1.0.0",
+  "description": "JavaScript Basic 150 exercises with Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverdjbrown/javacript-basic-practice.git"
+  },
+  "keywords": [],
+  "author": "OliverdjBrown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverdjbrown/javacript-basic-practice/issues"
+  },
+  "homepage": "https://github.com/oliverdjbrown/javacript-basic-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
