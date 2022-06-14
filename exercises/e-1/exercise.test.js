@@ -6,7 +6,7 @@ test('Return day test', () => {
 });
 
 test('Return the current time from a date object', () => {
-  const date = '2022-06-13T23:48:37.796Z';
-  const expectedOutput = '19 : 48 : 37';
+  const date = '2022-06-14T02:18:51.807Z';
+  const expectedOutput = '10 PM : 18 : 51';
   expect(extractTime(date)).toBe(expectedOutput);
 });
