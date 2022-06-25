@@ -17,3 +17,5 @@ This is a JavaScript Basic 150 exercises which Im going to include unit test usi
 4. Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
 
 5. Write a JavaScript program to rotate the string 'w3resource' in right direction by periodically removing one letter from the end of the string and attaching it to the front.
+
+6. Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.
