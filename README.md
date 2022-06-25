@@ -1,6 +1,6 @@
 # Javascript-Basic-Practice
 
-This is a JavaScript Basic 150 exercises which Im going to include test using jest to practice not just my javascript but also test functionally.
+This is a JavaScript Basic 150 exercises which Im going to include unit test using jest so I can practice not just my logic with javascript but also test functionally.
 
 ## Exercises
 
@@ -15,3 +15,5 @@ This is a JavaScript Basic 150 exercises which Im going to include test using je
    mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy, dd/mm/yyyy
 
 4. Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
+
+5. Write a JavaScript program to rotate the string 'w3resource' in right direction by periodically removing one letter from the end of the string and attaching it to the front.
