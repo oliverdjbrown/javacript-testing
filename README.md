@@ -26,4 +26,14 @@ This is a JavaScript Basic 150 exercises which Im going to include unit test usi
 
 9. Write a JavaScript program to calculate days left until next Christmas.
 
+10. Write a JavaScript program to calculate multiplication and division of two numbers (input from user).
+
+11. Write a JavaScript program to convert temperatures to and from Celsius, Fahrenheit.
+
+12. Write a JavaScript program to get the website URL (loading page).
+
+13. Write a JavaScript exercise to create a variable using a user-defined name.
+
+14. Write a JavaScript exercise to get the extension of a filename.
+
 Source: https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
