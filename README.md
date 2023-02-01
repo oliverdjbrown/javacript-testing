@@ -1,4 +1,4 @@
-# Javascript-Basic-Practice
+# Javascript-Testing
 
 This is a JavaScript Basic 150 exercises which Im going to include unit test using jest so I can practice not just my logic with javascript but also test functionality.
 
